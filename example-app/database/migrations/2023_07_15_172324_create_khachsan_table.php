@@ -15,9 +15,7 @@ return new class extends Migration
     {
         Schema::create('khachsan', function (Blueprint $table) {
             $table->id('id');
-            $table->unsignedBigInteger('id_tinhthanh');
 
-            $table->foreign('id_tinhthanh')->references('id')->on('tinhthanh');
             $table->string('image');
             $table->string('name');
             $table->string('address')->nullable();

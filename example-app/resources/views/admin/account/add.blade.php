@@ -16,7 +16,6 @@
                                  style="max-width: 200px; height:100px; margin-bottom: 10px;" class="img-fluid"/>
                             <input type="file" name="image" accept="image/*"
                                    class="form-control-file @error('image') is-invalid @enderror" id="cmt_truoc">
-                            <label for="cmt_truoc">Mặt trước</label><br/>
                         </div>
                     </div>
                 </div>

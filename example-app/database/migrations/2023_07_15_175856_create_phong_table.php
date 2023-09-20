@@ -24,6 +24,7 @@ return new class extends Migration
             $table->unsignedBigInteger('id_loaiphong');
             $table->foreign('id_loaiphong')->references('id')->on('loaiphong');
             $table->integer('status')->default(1);
+            $table->softDeletes();
             $table->timestamps();
         });
     }

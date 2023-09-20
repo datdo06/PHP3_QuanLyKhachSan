@@ -32,7 +32,7 @@
                         <li><a class="dropdown-item" href="#!">Settings</a></li>
                         <li><a class="dropdown-item" href="#!">Activity Log</a></li>
                         <li><hr class="dropdown-divider" /></li>
-                        <li><a class="dropdown-item" href="#!">Logout</a></li>
+                        <li><a class="dropdown-item" href="{{route('logout')}}">Logout</a></li>
                     </ul>
                 </li>
             </ul>
@@ -55,7 +55,7 @@
 {{--                                </nav>--}}
 {{--                            </div>--}}
                             <div class="sb-sidenav-menu-heading">Interface</div>
-                            <a class="nav-link" href="{{asset('/admin/account')}}">
+                            <a class="nav-link" href="{{url('/admin/account')}}">
                                 <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
                                 Accounts
 {{--                                <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>--}}
@@ -66,37 +66,19 @@
 {{--                                    <a class="nav-link" href="layout-sidenav-light.html">Light Sidenav</a>--}}
 {{--                                </nav>--}}
 {{--                            </div>--}}
-                            <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
+                            <a class="nav-link " href="{{url('/admin/admin-slider')}}" >
                                 <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
-                                Pages
-                                <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                                Banner
+{{--                                <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>--}}
                             </a>
-                            <div class="collapse" id="collapsePages" aria-labelledby="headingTwo" data-bs-parent="#sidenavAccordion">
-                                <nav class="sb-sidenav-menu-nested nav accordion" id="sidenavAccordionPages">
-                                    <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseAuth" aria-expanded="false" aria-controls="pagesCollapseAuth">
-                                        Authentication
-                                        <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
-                                    </a>
-                                    <div class="collapse" id="pagesCollapseAuth" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
-                                        <nav class="sb-sidenav-menu-nested nav">
-                                            <a class="nav-link" href="login.html">Login</a>
-                                            <a class="nav-link" href="register.html">Register</a>
-                                            <a class="nav-link" href="password.html">Forgot Password</a>
-                                        </nav>
-                                    </div>
-                                    <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseError" aria-expanded="false" aria-controls="pagesCollapseError">
-                                        Error
-                                        <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
-                                    </a>
-                                    <div class="collapse" id="pagesCollapseError" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
-                                        <nav class="sb-sidenav-menu-nested nav">
-                                            <a class="nav-link" href="401.html">401 Page</a>
-                                            <a class="nav-link" href="404.html">404 Page</a>
-                                            <a class="nav-link" href="500.html">500 Page</a>
-                                        </nav>
-                                    </div>
-                                </nav>
-                            </div>
+                            <a class="nav-link " href="{{url('/admin/admin-cate')}}" >
+                                <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
+                                Cate_Room
+                            </a>
+                            <a class="nav-link " href="{{url('/admin/admin-room')}}" >
+                                <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
+                                Room
+                            </a>
                             <div class="sb-sidenav-menu-heading">Addons</div>
                             <a class="nav-link" href="charts.html">
                                 <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
@@ -115,6 +97,15 @@
                 @yield('content')
                 @yield('content_add')
                 @yield('content_update')
+                @yield('slider_content')
+                @yield('slider_add')
+                @yield('slider_update')
+                @yield('cate_content')
+                @yield('cate_add')
+                @yield('cate_update')
+                @yield('room_content')
+                @yield('room_add')
+                @yield('room_update')
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">

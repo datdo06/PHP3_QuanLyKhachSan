@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1807dcfe-dfd5-44c9-bf10-626091560905" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/example-app/app/Http/Controllers/AuthController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/READ-ME.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/booking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/hotel-html-template.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/room.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/hotel-html-template/testimonial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/about-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/about-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/about-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/about-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/carousel-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/carousel-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/room-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/room-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/room-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/testimonial-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/testimonial-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/testimonial-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/testimonial-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/img/video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/counterup/counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/easing/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/easing/easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/assets/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/assets/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/owlcarousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/tempusdominus/css/tempusdominus-bootstrap-4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/tempusdominus/css/tempusdominus-bootstrap-4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/tempusdominus/js/moment-timezone.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/tempusdominus/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/tempusdominus/js/tempusdominus-bootstrap-4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/tempusdominus/js/tempusdominus-bootstrap-4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/waypoints/links.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/waypoints/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/wow/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/libs/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_accordion.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_containers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_offcanvas.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/bootstrap-utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_floating-labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_form-check.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_form-control.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_form-range.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_form-select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_form-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/forms/_validation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/helpers/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/helpers/_colored-links.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/helpers/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/helpers/_ratio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/helpers/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/helpers/_text-truncation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/helpers/_visually-hidden.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_color-scheme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_container.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_table-variants.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/mixins/_visually-hidden.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/utilities/_api.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/public/scss/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/banner/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/banner/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/banner/update.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/cateroom/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/cateroom/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/cateroom/update.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/room/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/room/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/admin/room/update.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/auth/dashboard.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-app/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PHP3_QuanLyKhachSan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Http/Controllers/AcountController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Http/Controllers/KhachHangController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Http/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/app/Http/Controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Http/Requests/AccountRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Http/Requests/KhachHangRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Models/Accounts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2023_07_15_165706_create_tinhthanh_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2023_07_15_165756_create_loaiphong_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/database/migrations/2023_07_15_165756_create_loaiphong_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2023_07_15_172324_create_khachsan_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/database/migrations/2023_07_15_172324_create_khachsan_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2023_07_15_175856_create_phong_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/database/migrations/2023_07_15_175856_create_phong_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2023_07_17_151949_create_banner_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/database/migrations/2023_07_17_151949_create_banner_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2023_07_17_154144_create_accounts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2023_07_17_154656_create_datphong_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/migrations/2023_07_17_154912_create_giaodich_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/database/seeders/KhachHangSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/phan mem quan ly khach san voi sqlserver chi tiet 15432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/public/401.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/public/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/admin/account/add.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/admin/account/add.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/admin/account/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/admin/account/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/admin/account/update.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/admin/account/update.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-app/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/example-app/routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/example-app/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/example-app/.gitignore" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/example-app/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/example-app/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/example-app/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/example-app/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/example-app/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/example-app/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/example-app/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/example-app/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/example-app/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/example-app/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/example-app/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/example-app/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/example-app/vendor/composer" />
+      <path value="$PROJECT_DIR$/example-app/vendor/league/config" />
+      <path value="$PROJECT_DIR$/example-app/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/example-app/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/example-app/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/example-app/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/example-app/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/example-app/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/example-app/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/example-app/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/example-app/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/example-app/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/example-app/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/example-app/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/example-app/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/example-app/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/example-app/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/example-app/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/example-app/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/example-app/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/example-app/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/example-app/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/example-app/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/example-app/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/example-app/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/example-app/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/example-app/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/example-app/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/example-app/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/example-app/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/example-app/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/example-app/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/example-app/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/example-app/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/example-app/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/example-app/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/example-app/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/example-app/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/example-app/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/example-app/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/example-app/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/example-app/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/example-app/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/example-app/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/example-app/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/example-app/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/example-app/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/example-app/vendor/nette/utils" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2SQkLGWEOOzdsMUolnAuAWlbNhq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/test2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PHP3_QuanLyKhachSan\example-app\resources\css" />
+      <recent name="F:\PHP3_QuanLyKhachSan\example-app\public\css" />
+      <recent name="F:\PHP3_QuanLyKhachSan\example-app\public\js" />
+      <recent name="F:\PHP3_QuanLyKhachSan\example-app\public\libs" />
+      <recent name="F:\PHP3_QuanLyKhachSan\example-app\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PHP3_QuanLyKhachSan\example-app\resources\views" />
+      <recent name="F:\PHP3_QuanLyKhachSan\example-app\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.password.html">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP3_QuanLyKhachSan/example-app/public/hotel-html-template/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP3_QuanLyKhachSan/example-app/public/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="password.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP3_QuanLyKhachSan/example-app/public/password.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tables.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP3_QuanLyKhachSan/example-app/public/tables.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="testimonial.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP3_QuanLyKhachSan/example-app/public/hotel-html-template/testimonial.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.password.html" />
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.testimonial.html" />
+        <item itemvalue="JavaScript Debug.tables.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1807dcfe-dfd5-44c9-bf10-626091560905" name="Changes" comment="" />
+      <created>1689086134523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689086134523</updated>
+      <workItem from="1689086135534" duration="862000" />
+      <workItem from="1689120365591" duration="2521000" />
+      <workItem from="1689292806441" duration="1402000" />
+      <workItem from="1689294226783" duration="1012000" />
+      <workItem from="1689350318280" duration="1638000" />
+      <workItem from="1689413564545" duration="3477000" />
+      <workItem from="1689427631164" duration="16249000" />
+      <workItem from="1689480867473" duration="12429000" />
+      <workItem from="1689553516604" duration="2372000" />
+      <workItem from="1689606883689" duration="11461000" />
+      <workItem from="1689645328387" duration="9256000" />
+      <workItem from="1689654993614" duration="2176000" />
+      <workItem from="1689660578420" duration="3308000" />
+      <workItem from="1689685361916" duration="9097000" />
+      <workItem from="1689725138037" duration="4173000" />
+      <workItem from="1689773551176" duration="4006000" />
+      <workItem from="1689777621058" duration="3402000" />
+      <workItem from="1689837004793" duration="9139000" />
+      <workItem from="1689859580050" duration="10523000" />
+      <workItem from="1689870473045" duration="97000" />
+      <workItem from="1689897817916" duration="5513000" />
+      <workItem from="1689954147818" duration="14853000" />
+      <workItem from="1690007716498" duration="6279000" />
+      <workItem from="1690157631931" duration="2631000" />
+      <workItem from="1690164298330" duration="116000" />
+      <workItem from="1690274904439" duration="3777000" />
+      <workItem from="1690431693919" duration="1585000" />
+      <workItem from="1690433398971" duration="59000" />
+      <workItem from="1690433480034" duration="72000" />
+      <workItem from="1690433569389" duration="929000" />
+      <workItem from="1690459806530" duration="4368000" />
+      <workItem from="1690506323032" duration="10000" />
+      <workItem from="1690593723988" duration="2189000" />
+      <workItem from="1690812137016" duration="1083000" />
+      <workItem from="1690898702446" duration="3805000" />
+      <workItem from="1690935992914" duration="2901000" />
+      <workItem from="1690964830472" duration="768000" />
+      <workItem from="1691108808662" duration="709000" />
+      <workItem from="1691301032979" duration="1978000" />
+      <workItem from="1691306287397" duration="2056000" />
+      <workItem from="1691326774570" duration="9000" />
+      <workItem from="1691540793097" duration="1027000" />
+      <workItem from="1691820691623" duration="17000" />
+      <workItem from="1694437850356" duration="521000" />
+      <workItem from="1694525310199" duration="1311000" />
+      <workItem from="1694533019770" duration="17000" />
+      <workItem from="1694536731016" duration="964000" />
+      <workItem from="1694791388774" duration="3972000" />
+      <workItem from="1694839529973" duration="628000" />
+      <workItem from="1694874953070" duration="2418000" />
+      <workItem from="1694883381270" duration="463000" />
+      <workItem from="1694925242969" duration="1139000" />
+      <workItem from="1695194326543" duration="3491000" />
+      <workItem from="1695198455660" duration="345000" />
+      <workItem from="1695213773932" duration="709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/example-app" />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Quanlykhachsan" />
+    </ignored-roots>
+    <MESSAGE value="QLKS" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

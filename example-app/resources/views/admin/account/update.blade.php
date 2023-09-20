@@ -18,7 +18,7 @@
                         <div class="col-xs-6">
                             <img id="mat_truoc_preview" src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg"  alt="your image"
                                  style="max-width: 200px; height:100px; margin-bottom: 10px;" class="img-fluid"/>
-                            <input type="file" name="image" accept="image/*"
+                            <input type="file" name="image" accept="image/*" src="{{$account -> image ? '' . Storage::url($account -> image) : ''}}"
                                    class="form-control-file @error('image') is-invalid @enderror"  id="cmt_truoc">
                         </div>
                     </div>
